@@ -1,0 +1,13 @@
+.letra_navbar{
+    font-family: 'Comic Sans MS', 'Comic Sans', cursive;
+    color: white !important;
+}
+.borde-grueso {
+    border: 2px solid #838383; /* Borde azul con grosor de 5px */
+    border-radius: 10px; /* Bordes ligeramente redondeados (opcional) */
+   
+}
+#white-background{
+    height: 400px;
+    color: white;
+}
